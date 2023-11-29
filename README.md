@@ -8,6 +8,9 @@ Just move one or both of the `.xml` files of your choice into your Qt Creator st
 _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-files_
 
 ### Windows Location
+
+**In Qt5**
+
 - Full Path: `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\styles`
 
   ​				  `C:\Users\%USERNAME%\AppData\Roaming\QtProject\qtcreator\themes`
@@ -15,6 +18,11 @@ _From: https://doc.qt.io/qtcreator/creator-quick-tour.html#location-of-settings-
 - Shortcut: `%appdata%\QtProject\qtcreator\styles`
 
   ​                 `%appdata%\QtProject\qtcreator\themes`
+
+**In Qt6**
+
+- Full Path:`G:\QT6\Tools\QtCreator\share\qtcreator\styles`
+  	 			 `G:\QT6\Tools\QtCreator\share\qtcreator\themes`
 
 ### Linux Location
 - `~/.local/share/data/QtProject/qtcreator`
